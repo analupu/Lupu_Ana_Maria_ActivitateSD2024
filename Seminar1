@@ -79,9 +79,3 @@ int main() {
 	return 0;
 }
 
-// structura (struct) = o colectie neomogena (poate contine tipuri diferite de date) de date; este o clasa care nu poate sa aiba metode; contine doar caracetrsiticile unor obiecte, doar date
-// functia main este de tip int, deoarece la final daca totul functioneaza imi returneaza 0, adica nu am erori
-// sizeof este o functie si primeste ca parametru 
-// un char ocupa un octet; un pointer ocupa 4 sau 8 octeti in functie de arhitectura
-//memory leak: zona de memorie care nu este stearsa si care nu mai are referinta, adresa
-//dangling pointer: un pointer care pointeaza catre o zona de memorie dezalocata, "nimic"
