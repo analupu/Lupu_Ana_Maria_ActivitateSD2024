@@ -61,7 +61,7 @@ int main() {
 		printf("ID: %d \n", masini[i].id);
 		printf("Producator: %s \n", masini[i].producator);
 		printf("Numar usi: %d \n", masini[i].nrUsi);
-		printf("Pret: %d \n", masini[i].pret);
+		printf("Pret: %.2f \n", masini[i].pret);
 		printf("\n");
 	}
 }
