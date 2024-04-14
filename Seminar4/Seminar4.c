@@ -57,7 +57,7 @@ struct Masina* citireFisier(const char* numeFisier, int* nrMasini) { //nrMasini 
 
 void afisareMatrice(struct Masina** matrice, int nrLinii, int* nrCol) {
 	for (int i = 0; i < nrLinii;i++) {
-		for (int j = 0; i < nrCol;j++) {
+		for (int j = 0; j < nrCol[i];j++) {
 			printf("%d, %s, %d, %.2f \t", matrice[i][j].id, matrice[i][j].producator, matrice[i][j].nrUsi, matrice[i][j].pret);
 		}
 		printf("\n");
