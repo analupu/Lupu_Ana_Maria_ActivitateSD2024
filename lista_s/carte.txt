@@ -1,0 +1,3 @@
+Frozen, 125,15
+Crocodili,130,40
+Natura,350,75
