@@ -1,0 +1,2 @@
+Craita,200,5
+Garoafa,150,10
