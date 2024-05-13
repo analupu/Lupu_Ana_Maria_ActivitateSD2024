@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "floare", "floare.vcxproj", "{74947180-32B4-4068-9C4F-6A79208A1869}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74947180-32B4-4068-9C4F-6A79208A1869}.Debug|x64.ActiveCfg = Debug|x64
+		{74947180-32B4-4068-9C4F-6A79208A1869}.Debug|x64.Build.0 = Debug|x64
+		{74947180-32B4-4068-9C4F-6A79208A1869}.Debug|x86.ActiveCfg = Debug|Win32
+		{74947180-32B4-4068-9C4F-6A79208A1869}.Debug|x86.Build.0 = Debug|Win32
+		{74947180-32B4-4068-9C4F-6A79208A1869}.Release|x64.ActiveCfg = Release|x64
+		{74947180-32B4-4068-9C4F-6A79208A1869}.Release|x64.Build.0 = Release|x64
+		{74947180-32B4-4068-9C4F-6A79208A1869}.Release|x86.ActiveCfg = Release|Win32
+		{74947180-32B4-4068-9C4F-6A79208A1869}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F613AFB-D541-4AD5-9006-4D7CA0BC17C8}
+	EndGlobalSection
+EndGlobal

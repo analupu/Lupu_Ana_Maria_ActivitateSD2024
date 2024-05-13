@@ -1,0 +1,13 @@
+4
+Lalea
+10
+20
+Narcisa
+10
+25
+Zambila
+3
+15
+Ghiocel
+30
+10
